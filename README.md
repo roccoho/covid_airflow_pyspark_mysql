@@ -1,4 +1,4 @@
-Python program which utilizes mysql-connector, pyspark and airflow.
+Python program which utilizes __mysql-connector__, __pyspark__ and __airflow__.
 
 ![covid2 drawio (1)](https://user-images.githubusercontent.com/103323204/189497832-367bfd1b-f5a3-4796-8948-becc3702c5f6.png)
 
